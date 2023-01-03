@@ -1,1 +1,1 @@
-console.log('js file update new')
+console.log('js file update new v1')
